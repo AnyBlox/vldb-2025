@@ -1,0 +1,12 @@
+[submodule "duckdb-anyblox"]
+	path = duckdb-anyblox
+	url = git@github.com:AnyBlox/duckdb-anyblox.git
+[submodule "anyblox"]
+	path = anyblox
+	url = git@github.com:AnyBlox/anyblox.git
+[submodule "spark-anyblox"]
+	path = spark-anyblox
+	url = git@github.com:AnyBlox/spark-anyblox.git
+[submodule "umbra-anyblox"]
+	path = umbra-anyblox
+	url = git@github.com:AnyBlox/umbra-anyblox.git
